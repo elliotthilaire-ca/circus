@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  remote: https://rubygems.pkg.github.com/elliotthilaire-ca/
+  specs:
+    clowns (0.1.0)
+    ex (0.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  clowns!
+  ex
+
+BUNDLED WITH
+   2.0.2
