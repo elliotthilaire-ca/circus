@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   remote: https://rubygems.pkg.github.com/elliotthilaire-ca/
   specs:
-    clowns (0.1.5)
+    clowns (0.1.10)
     ex (0.2.1)
 
 PLATFORMS
